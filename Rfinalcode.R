@@ -31,7 +31,7 @@ quadratic_roots <- function(aa = 1, bb = 2, cc = 1)
     }   
   }   
 }
-
+ 
 
 find_mu_sigma<-function(mean,lci){
   m = qnorm(mean)
